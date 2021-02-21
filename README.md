@@ -20,4 +20,19 @@ Summit a code change requests to merge back into the main project repository.
 <hr/>
 <h1>Week #2 - Feb 28th</h1>
 <h2>Learning React/SVG 101 - Simple Coloring Demo using page 7 of Highlands Kids Prayer Guide</h2>
-more TBD ...
+<ul>
+<li>Review simple coloring web page for Prayer Guide page 7</li>
+<li>Intro to HTML/React Web Development</li>
+<ol>
+<li>https://www.w3schools.com/html/default.asp</li>
+<li>https://reactjs.org/ </li>
+<li>https://www.w3schools.com/react/default.asp</li>
+</ol>
+<li>Intro to SVG Vector Graphics for the Web</li>
+<ol>
+<li>https://www.w3schools.com/graphics/svg_intro.asp</li>
+<li>https://www.youtube.com/watch?v=a8Y0L5q63y8</li>
+</ol>
+</ul>
+More TBD ...
+
