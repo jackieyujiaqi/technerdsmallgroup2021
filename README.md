@@ -15,5 +15,9 @@ Create a file in your new Github with the file name of your first name and the e
 Example:  zach.txt for me Zach Lewis.
 <li>Submit a Pull Request</li>
 Summit a code change requests to merge back into the main project repository.
+<li>Review Initial Website and Homework study recommendations.</li>
 </ol>
 <hr/>
+<h1>Week #2 - Feb 28th</h1>
+<h2>Learning React/SVG 101 - Simple Coloring Demo using page 7 of Highlands Kids Prayer Guide</h2>
+more TBD ...
