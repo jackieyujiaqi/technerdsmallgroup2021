@@ -20,7 +20,7 @@ const App = () => {
           <ColorPalette currentColor={currentColor} changeColor={setCurrentColor}/>
         </div>
       <div className= "flower">
-        <Flower fillColors={fillColors} onFill={onFillColor} />
+        Choose Avatar Page
       </div>
 
     </div>
