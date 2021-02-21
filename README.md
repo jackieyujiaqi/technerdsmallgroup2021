@@ -24,6 +24,7 @@ NOTE: You can have more than one role, since we want everyone to play a part.
 
 <li><b>QA or tester</b> is responsible for the Quality Assurance and makes sure the product is ready to use. 
 Business Analyst’s role is to uncover the ways to improve the product. They interact with stakeholders to understand their problems and needs, and later document and analyze them to find a solution. </li>
+<li>Business Analyst’s role is to uncover the ways to improve the product. They interact with stakeholders to understand their problems and needs, and later document and analyze them to find a solution. </li>
 </ul
 <ol>
 <li>Create a GITHUB account</li>
