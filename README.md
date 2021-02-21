@@ -2,9 +2,27 @@
 
 Church of the Highlands Small Group - Tech Nerds Kids Prayer Guide Project.
 
+<h1>Goal:  Using the Highlands Kid Prayer Guide, we will build a game with a website, AR and interactive live event. We may also build IOT device to use in the game.
+<hr/>
 <h1>Week #1 - Feb 21st</h1>
 <h2>First Things First [Getting Started - Developing as a Team]:</h2>
 <p>This first week will get our development code repository setup and review the web hosting platform Vercel</p>
+<h3>What do you want to do on the project </h3>
+NOTE: You can have more than one role, since we want everyone to play a part.
+<ul>
+<li>Product owner, in the case of an outsourced project, this is the client with a vision of how the end-product should look, who are the end-users and what it should do.</li> 
+
+<li>Project manager is a person responsible for managing and leading the whole team. Their role is to efficiently optimize the work of the team, ensure the product is meeting the requirements and identify the goals for the team. </li>
+
+<li>Software architect is a highly-skilled software developer that has to think through all the aspects of the project and is responsible for making high level design choices, as well as select technical standards (for instance, determines the technology stack to use).</li>
+
+<li>Developers or software engineers are team members that apply their knowledge of engineering and programming languages in software development. </li>
+
+<li>Experience designers ensure that the product is easy and pleasant to use. They conduct user interviews, market research, and design a product with end-users in mind.  </li>
+
+<li>QA or tester is responsible for the Quality Assurance and makes sure the product is ready to use. 
+Business Analyst’s role is to uncover the ways to improve the product. They interact with stakeholders to understand their problems and needs, and later document and analyze them to find a solution. </li>
+</ul
 <ol>
 <li>Create a GITHUB account</li>
 https://github.com/join
