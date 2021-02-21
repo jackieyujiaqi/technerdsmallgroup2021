@@ -2,7 +2,9 @@
 
 Church of the Highlands Small Group - Tech Nerds Kids Prayer Guide Project.
 
-<h1>Goal:  Using the Highlands Kid Prayer Guide, we will build a game with a website, AR and interactive live event. We may also build IOT device to use in the game.
+<h1>Goal:</h1>
+  Using the Highlands Kid Prayer Guide, we will build a game with a website, AR and interactive live event. We may also build IOT device to use in the game.
+NOTE: This will allow us to learn and share tech skills and ideas around a common goal.
 <hr/>
 <h1>Week #1 - Feb 21st</h1>
 <h2>First Things First [Getting Started - Developing as a Team]:</h2>
