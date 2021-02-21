@@ -12,17 +12,17 @@ NOTE: This will allow us to learn and share tech skills and ideas around a commo
 <h3>What do you want to do on the project </h3>
 NOTE: You can have more than one role, since we want everyone to play a part.
 <ul>
-<li>Product owner, in the case of an outsourced project, this is the client with a vision of how the end-product should look, who are the end-users and what it should do.</li> 
+<li><b>Product owner</b>, in the case of an outsourced project, this is the client with a vision of how the end-product should look, who are the end-users and what it should do.</li> 
 
-<li>Project manager is a person responsible for managing and leading the whole team. Their role is to efficiently optimize the work of the team, ensure the product is meeting the requirements and identify the goals for the team. </li>
+<li><b>Project manager</b> is a person responsible for managing and leading the whole team. Their role is to efficiently optimize the work of the team, ensure the product is meeting the requirements and identify the goals for the team. </li>
 
-<li>Software architect is a highly-skilled software developer that has to think through all the aspects of the project and is responsible for making high level design choices, as well as select technical standards (for instance, determines the technology stack to use).</li>
+<li><b>Software architect</b> is a highly-skilled software developer that has to think through all the aspects of the project and is responsible for making high level design choices, as well as select technical standards (for instance, determines the technology stack to use).</li>
 
-<li>Developers or software engineers are team members that apply their knowledge of engineering and programming languages in software development. </li>
+<li><b>Developers or software engineers</b> are team members that apply their knowledge of engineering and programming languages in software development. </li>
 
-<li>Experience designers ensure that the product is easy and pleasant to use. They conduct user interviews, market research, and design a product with end-users in mind.  </li>
+<li><b>Experience designers</b> ensure that the product is easy and pleasant to use. They conduct user interviews, market research, and design a product with end-users in mind.  </li>
 
-<li>QA or tester is responsible for the Quality Assurance and makes sure the product is ready to use. 
+<li><b>QA or tester</b> is responsible for the Quality Assurance and makes sure the product is ready to use. 
 Business Analyst’s role is to uncover the ways to improve the product. They interact with stakeholders to understand their problems and needs, and later document and analyze them to find a solution. </li>
 </ul
 <ol>
