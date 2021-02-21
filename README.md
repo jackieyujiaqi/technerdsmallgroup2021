@@ -15,24 +15,28 @@ Create a file in your new Github with the file name of your first name and the e
 Example:  zach.txt for me Zach Lewis.
 <li>Submit a Pull Request</li>
 Summit a code change requests to merge back into the main project repository.
-<li>Review Initial Website and Homework study recommendations.</li>
+<li>Next week Prep - Homework study recommendations.</li>
+Starter Project Tasks - Coloring Highlands Kids Prayer Guide page 7
+<a href=https://github.com/devcmgm/technerdsmallgroup2021/blob/main/docs/kids-prayer-guide.pdf>Highlands Kids Prayer Guide</a>
+<ul><li>Website(Work In Progress): https://technerdsmallgroup2021.vercel.app/</li></ul>
 </ol>
 <hr/>
 <h1>Week #2 - Feb 28th</h1>
 <h2>Learning React/SVG 101 - Simple Coloring Demo using page 7 of Highlands Kids Prayer Guide</h2>
-<ul>
-<li>Review simple coloring web page for Prayer Guide page 7</li>
-<li>Intro to HTML/React Web Development</li>
 <ol>
+<li>Intro to HTML/React Web Development</li>
+<ul>
 <li>https://www.w3schools.com/html/default.asp</li>
 <li>https://reactjs.org/ </li>
 <li>https://www.w3schools.com/react/default.asp</li>
-</ol>
+</ul>
 <li>Intro to SVG Vector Graphics for the Web</li>
-<ol>
+<ul>
 <li>https://www.w3schools.com/graphics/svg_intro.asp</li>
 <li>https://www.youtube.com/watch?v=a8Y0L5q63y8</li>
-</ol>
+</ul>
+<li>Vercel Web Hosting</li>
+https://vercel.com/
 </ul>
 More TBD ...
-
+</ol>
